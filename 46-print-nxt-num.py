@@ -1,2 +1,2 @@
-n=int(input())
-print(n+1)
+na=int(input())
+print(na+1)
